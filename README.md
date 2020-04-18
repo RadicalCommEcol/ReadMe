@@ -1,6 +1,6 @@
 # Read Me
 
-![](RadicalCommEcol.png)
+![](RadicalCommEcol.png | width=100)
 
 **About Radical Community Ecology:**    
 
