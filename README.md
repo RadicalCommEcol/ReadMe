@@ -1,6 +1,6 @@
 # Read Me
 
-![](RadicalCommEcol.png | width=100)
+<img src="RadicalCommEcol.png" alt="Radical" width="350" height="201">
 
 **About Radical Community Ecology:**    
 
